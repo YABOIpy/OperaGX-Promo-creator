@@ -4,6 +4,12 @@
 
 ![image](https://github.com/YABOIpy/OperaGX-Promo-creator/assets/110062350/9aa72a00-d7f1-41d1-9294-91cb9b6dffad)
 
+```md
+go not installed?
+use the compiled version:
+https://github.com/YABOIpy/OperaGX-Promo-creator/releases/tag/v0.1.0
+```
+
 **Config**
 
 | Name | Type | Description | 
