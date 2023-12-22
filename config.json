@@ -1,0 +1,7 @@
+{
+  "configuration": {
+    "threads": 3000,
+    "thread_limit": 500
+  },
+  "proxy": ""
+}
